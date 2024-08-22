@@ -58,4 +58,4 @@ export const deleteMahasiswa = (req, res) => {
     res.status(200);
     res.json("data berhasil dihapus");
   });
-}
+};
